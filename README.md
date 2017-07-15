@@ -22,6 +22,10 @@ Mục đích yêu cầu trang Web:
   
  - An toàn về dữ liệu
  
+                                             Ý TƯỞNG
+                                             
+ Cùng vói sự phát triển không ngừng nghỉ về kĩ thuật máy tính và điện tử, CNTT cũng được những công nghệ có đẳng cấp  và lần lượt chinh phục được nhiều đỉnh cao.  Tuy nhiên  do các yêu tố khách quan khác nhau đưa lại dẫn đến tình trạng Website của các doanh nghiệp chưa phát triển hết tính năng vốn có của nó. Với sự đam mê thể thao và nhận thức như trên cùng với sức trẻ và lòng nhiệt huyết nhóm em đa đưa ra Website tin tức thể thao với những giải pháp sáng tạo và mới mẻ với giao diện thân thiện và dễ sử dụng hơn tới tay người sử dụng .
+ 
                                            MỤC TIÊU PHÁT TRIỂN TƯƠNG LAI
 
 -Phần mềm được sử dụng rỗng rãi trên toàn thế giới và được các công ty đón nhận
