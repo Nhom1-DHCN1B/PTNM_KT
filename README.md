@@ -22,6 +22,17 @@ Mục đích yêu cầu trang Web:
   
  - An toàn về dữ liệu
  
+                                           MỤC TIÊU PHÁT TRIỂN TƯƠNG LAI
+
+-Phần mềm được sử dụng rỗng rãi trên toàn thế giới và được các công ty đón nhận
+
+-Giải quyết hết mọi vấn đề về việc cung cấp thông tin thể thao trên thế giới tới người sử dụng.
+
+-Nâng cáo hỗ trợ các tiện ích về tìm kiếm tra cứu như bằng giọng nói ....
+
+-Hệ thống báo cáo đa dạng, chi tiết theo từng module chức năng trong phần mềm
+
+ 
                                           THÔNG TIN VỀ GIẤY PHÉP SỬ DỤNG
                                           
 1….Giấy phép MIT
