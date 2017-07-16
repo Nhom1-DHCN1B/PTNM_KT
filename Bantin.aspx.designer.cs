@@ -10,16 +10,16 @@
 namespace TinTuc {
     
     
-    public partial class chitiet {
+    public partial class Bantin {
         
         /// <summary>
-        /// rpBanTin control.
+        /// rpIDBanTin control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Repeater rpBanTin;
+        protected global::System.Web.UI.WebControls.Repeater rpIDBanTin;
         
         /// <summary>
         /// rpChiTiet control.
@@ -29,14 +29,5 @@ namespace TinTuc {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Repeater rpChiTiet;
-        
-        /// <summary>
-        /// rpRanDom control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Repeater rpRanDom;
     }
 }

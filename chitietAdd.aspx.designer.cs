@@ -10,33 +10,42 @@
 namespace TinTuc {
     
     
-    public partial class chitiet {
+    public partial class chitietAdd {
         
         /// <summary>
-        /// rpBanTin control.
+        /// drBanTin control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Repeater rpBanTin;
+        protected global::System.Web.UI.WebControls.DropDownList drBanTin;
         
         /// <summary>
-        /// rpChiTiet control.
+        /// txtTieuDe control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Repeater rpChiTiet;
+        protected global::System.Web.UI.WebControls.TextBox txtTieuDe;
         
         /// <summary>
-        /// rpRanDom control.
+        /// txtNoiDung control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Repeater rpRanDom;
+        protected global::CKEditor.NET.CKEditorControl txtNoiDung;
+        
+        /// <summary>
+        /// btnInsert control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnInsert;
     }
 }

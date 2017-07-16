@@ -30,6 +30,8 @@ namespace TinTuc
             rpBanTin.DataBind();
             rpChiTiet.DataSource = dt.ChiTiet_SelectID(id);
             rpChiTiet.DataBind();
+            rpRanDom.DataSource = dt.ChiTiet_SelectRanDom(idbantin);
+            rpRanDom.DataBind();
 
         }
     }
