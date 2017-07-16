@@ -52,6 +52,9 @@ b. Đối với người quản trị
 	
 	- Hiển thị thông tin lên theo nhóm tin, chuyên mục.
 	
+2. Biểu đồ phân cấp chức năng, biểu đồ luồng dữ liệu.
+
+	
 
 
 
