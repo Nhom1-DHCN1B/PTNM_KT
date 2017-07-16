@@ -5,6 +5,8 @@ ASP.NET là một nền tảng ứng dụng web (web application framework) đư
 Những trang ASP.NET, được biết đến như những web form, là khối chính trong phát triển ứng dụng. Những web form được chứa trong những file có phần mở rộng ASPX; những nhà phát triển có thể đặt nội dung tĩnh hoặc động vào trang aspx dưới dạng server-side Web Control và User Control. Ngoài ra, có thể viết mã bằng cách chèn <% -- mã cần viết -- %> vào trang web giống như những công nghệ phát triển web khác PHP, JSP và ASP, nhưng những công nghệ nào không hỗ trợ data binding khi nó phát sinh nội dung trang web.
 
                                                  GIỚI THIỆU VỀ MÔ HÌNH 3 TẦNG
+![image](https://user-images.githubusercontent.com/27793476/28245227-dc20c2e6-69b6-11e7-9cde-06bed807ad66.png)
+
 Mô hình 3-layer gồm có 3 phần chính :
 
 – Presentation Layer (GUI) : Lớp này có nhiệm vụ chính giao tiếp với người dùng. Nó gồm các thành phần giao diện ( win form, web form,…) và thực hiện các công việc như nhập liệu, hiển thị dữ liêu, kiểm tra tính đúng đắn dữ liệu trước khi gọi lớp Business Logic Layer (BLL).
@@ -21,6 +23,8 @@ Phân tích chi tiết từng layer trong mô hình 3 lớp .
 
 1..Presentation Layer (GUI):
 
+![image](https://user-images.githubusercontent.com/27793476/28245224-d5196c0a-69b6-11e7-9d75-eb7e5c32cde7.png)
+
 Có hai thành phần chính sau đây với những tác vụ cụ thể :
 
 UI Components : gồm các thành phần tạo nên giao diện của ứng dụng (GUI). Chúng chịu trách nhiệm thu nhận và hiển thị dữ liệu cho người dùng… Ví dụ : textbox, button, combobox, … UI Process Components : là thành phần chịu trách nhiệm quản lý các quá trình chuyển đổi giữa các UI…
@@ -35,6 +39,9 @@ Ví dụ : Sắp xếp quá trình kiểm tra thông tin khách hàng:
 
 2..Bussiness Layer (BLL) :
 
+![image](https://user-images.githubusercontent.com/27793476/28245222-ccb1d746-69b6-11e7-8ccd-6580da306e46.png)
+
+
 Lớp này gồm 4 thành phần:
 
 Service Interface : là thành phần giao diện lập trình mà lớp này cung cấp cho lớp Presentation sử dụng.
@@ -46,5 +53,8 @@ Ví dụ : Thực hiện mua một đơn hàng trên tiki qua nhiều bước : 
 Ví dụ : Tiếp tục ví dụ ở trên. Bạn sẽ cần một Bussiness Component để kiểm tra gói hàng có khả dụng không ? hay một component để tính tổng chi phí,… Bussiness Entities : thường được sử dụng như Data Transfer Objects ( DTO ) . Bạn có thể sử dụng để truyền dữ liệu giữa các lớp (Presentation và Data Layer). Chúng thường là cấu trúc dữ liệu ( DataSets, XML,… ) hay các lớp đối tượng đã được tùy chỉnh. Ví dụ : tạo 1 class Student lưu trữ các dữ liệu về tên, ngày sinh, ID, lớp.
 
 3..Data Layer (DAL) :
+
+![image](https://user-images.githubusercontent.com/27793476/28245220-c36b8cd6-69b6-11e7-9007-a71807fbc473.png)
+
 
 Data Access Logic Components : chịu trách nhiệm chính lưu trữ và truy xuất dữ liệu từ các nguồn dữ liệu (Data Sources) như XML, file system,… Hơn nữa còn tạo thuận lợi cho việc dễ cấu hình và bảo trì. Service Agents : giúp bạn gọi và tương tác với các dịch vụ từ bên ngoài một cách dễ dàng và đơn giản.
