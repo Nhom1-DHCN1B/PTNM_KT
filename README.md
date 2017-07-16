@@ -71,7 +71,7 @@ http://en.wikipedia.org/wiki/List_of_software_that_uses_the_MIT_License
 
                                           TỔ CHỨC MÃ NGUỒN
  
- 
+ https://github.com/Nhom1-DHCN1B/PTNM_KT/blob/master/T%E1%BB%95%20ch%E1%BB%A9c%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F.md
  
                                           NGÔN NGỮ LẬP TRÌNH
                                           
