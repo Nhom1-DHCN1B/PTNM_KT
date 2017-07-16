@@ -53,6 +53,13 @@ b. Đối với người quản trị
 	- Hiển thị thông tin lên theo nhóm tin, chuyên mục.
 	
 2. Biểu đồ phân cấp chức năng, biểu đồ luồng dữ liệu.
+a. Biểu đồ phân cấp chức năng	
+
+- Hệ thống WebSite Tin tức.
+
+https://user-images.githubusercontent.com/27799048/28246418-9529a55a-6a43-11e7-936f-9c6d887283ee.png
+
+
 
 	
 
