@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Tintuc">
+  <DataContextMoniker Name="/TintucDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e90be278-258d-452a-9ad5-e742051278f8" absoluteBounds="0.75, 1.25, 2, 1.1939925130208338">
+      <DataClassMoniker Name="/TintucDataContext/BanTin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ae45e526-8322-488c-9cbb-16a8fecdceb7" absoluteBounds="0.765, 1.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="331e738f-70e3-4e90-aefc-b7450487e0a4" absoluteBounds="0.75, 3.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/TintucDataContext/DangNhap" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c125b36e-47ce-4eb7-9cb9-94523b106954" absoluteBounds="0.765, 4.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="51c0598c-7d3e-4d0d-9fd0-1ef6b945b8dd" absoluteBounds="3.5, 0.875, 2, 1.9631982421874998">
+      <DataClassMoniker Name="/TintucDataContext/ChiTiet" />
+      <nestedChildShapes>
+        <elementListCompartment Id="15e44d36-44ed-4a3c-a1c5-e4e5c7a1eb99" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.84699625651042); (3.5 : 1.84699625651042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TintucDataContext/BanTin/BanTin_ChiTiet" />
+      <nodes>
+        <classShapeMoniker Id="e90be278-258d-452a-9ad5-e742051278f8" />
+        <classShapeMoniker Id="51c0598c-7d3e-4d0d-9fd0-1ef6b945b8dd" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
