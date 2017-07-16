@@ -80,6 +80,13 @@ https://user-images.githubusercontent.com/27799048/28246418-9529a55a-6a43-11e7-9
   Qua biểu đồ mức khung cảnh ta thấy: User gửi yêu cầu đến quản lý, Admin là người trực tiếp quản lý trang Web sẽ xử lý yêu cầu đó và cấp phép có hoặc không đối với User.
 	
 	- Biểu đồ luồng dữ liệu mức đỉnh.
+	
+	https://user-images.githubusercontent.com/27793476/28246501-57cb5f3a-6a45-11e7-8646-1b33905f5543.png
+	
+- Biểu đồ luồng dữ liệu mức dưới đỉnh.
+	
+	+ Chức năng cập nhật
+
 
 
 
