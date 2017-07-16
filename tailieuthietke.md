@@ -90,6 +90,43 @@ https://user-images.githubusercontent.com/27799048/28246418-9529a55a-6a43-11e7-9
 	https://user-images.githubusercontent.com/27793476/28246495-417e30e0-6a45-11e7-8b0c-6b5b7c280d66.png
 	
 	+ Chức năng đăng ký thành viên.
+	
+	https://user-images.githubusercontent.com/27793476/28246487-3610ddd4-6a45-11e7-9d8c-45362f7705e9.png
+	
+	III. THIẾT KẾ HỆ THỐNG (CƠ SỞ SỮ LIỆU).
+	
+1. Thiết kế CSDL.
+
+	- Cơ sở dữ liệu nhằm lưu giữ thông tin cần thiết cho chương trình. Với mỗi một cơ sở dữ liệu sẽ thể hiện rõ thông tin tối thiểu cần có của việc quản lý.
+	
+	- Để lưu trữ CSDL và thực hiện các thao tác, cũng như thuật toán khác nhau với trang web thì cần phải tìm những cấu trúc dữ liệu thích hợp để mô tả quá trình hoạt động của trang web.
+	
+	- Để tạo một cơ sở dữ liệu, trước hết ta phải xác định những thông tin gì cần thiết. 
+	
+	- Sau đó ta thiết kế, tạo các bảng chứa các trường định nghĩa kiểu dữ liệu sẽ có. 
+	
+Sau khi tạo ra cấu trúc cơ sở dữ liệu, cơ sở dữ liệu có thể chứa dữ liệu dưới dạng bản ghi.
+
+2. Lựa chọn cài đặt CSDL.
+
+	- Lựa chọn hệ quản trị CSDL để thực hiện lưu trữ CSDL cho một chương trình có vai trò quan trọng quyết định không nhỏ đến sự thành công của chương trình. Lựa chọn hệ quản trị CSDL cũng chịu tác động của nhiều yếu tố khách quan cũng như chủ quan, phụ thuộc vào từng bài toán và thuật toán cụ thể.
+	
+	- SQL Server là hệ quản trị CSDL  quen thuộc, gần gũi với HSSV do đó nhóm chúng em quyết định chọn SQL Server 2005 để lưu trữ CSDL cho đề tài thực tập của nhóm. Sau đây nhóm chúng em sẽ tiến hành phân tích ngắn gọn quá trình thiết kế CSDL :
+	
+3. Xác định các thực thể.
+
+	Bước đầu trong phân tích thiết kế cơ sở dữ liệu là phân tích các yêu cầu của dữ liệu, tức là ta phải xác định được các thông tin cần quản lý để xác đinh ra các đối tượng cần thiết lưu trữ dữ liệu vào bảng.
+	
+	- Admin: Đây là thực thể xác định quyền điều hành và quản trị hệ thống. Người quản trị hệ thống có quyền hạn cao nhất trong hệ thống, thông tin về Admin được cung cấp bởi Username, Password
+	
+	- User: Đây là người sử dụng đăng nhập vào hệ thống để xem tin tức và gửi bài viết. Thông tin về User gồm Username, password, họ tên, mã nhóm, email.
+	
+	- Loại thông tin: mỗi loại thông tin có một mã loại thông tin để phân biệt với các loại thông tin khác.Cùng với mã loại thông tin còn có tiêu đề của loại thông tin.
+	
+	- Bản tin: mỗi bản tin có một mã bản tin để phân biệt với các bản tin khác. Một bản tin gồm các thông tin: title, shortcut, body, picture, creatdate, tags.
+
+	-Xuất phát từ quá trình xác định các thực thể như trên ta có thể xây dựng một  CSDL có tên là : Database.mdf và CSDL gồm có các bảng sau:
+
 
 
 
