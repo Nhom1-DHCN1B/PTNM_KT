@@ -71,7 +71,10 @@ https://user-images.githubusercontent.com/27799048/28246418-9529a55a-6a43-11e7-9
 	https://user-images.githubusercontent.com/27793476/28246487-3610ddd4-6a45-11e7-9d8c-45362f7705e9.png
 	
 	b. Biểu đồ luồng dữ liệu
+	
 	- Biểu đồ luồng dữ liệu mức khung cảnh
+	
+	https://user-images.githubusercontent.com/27793476/28246498-4aca5552-6a45-11e7-834f-16e85e4e1ceb.png
 
 
 
