@@ -36,4 +36,6 @@ II. PHÂN TÍCH HỆ THỐNG.
   
 a. Đối với người truy cập Website với chức năng User
 
+https://user-images.githubusercontent.com/27799048/28246418-9529a55a-6a43-11e7-936f-9c6d887283ee.png
+
 
