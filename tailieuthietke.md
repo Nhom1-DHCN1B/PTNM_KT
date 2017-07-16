@@ -36,6 +36,22 @@ II. PHÂN TÍCH HỆ THỐNG.
   
 a. Đối với người truy cập Website với chức năng User
 
-https://user-images.githubusercontent.com/27799048/28246418-9529a55a-6a43-11e7-936f-9c6d887283ee.png
+- Cho phép đăng ký thành viên.
+
+	- Cho phép xem tin tức, tìm kiếm thông tin
+	
+	- Cho phép Post các bài viết 
+	
+b. Đối với người quản trị
+
+	- Quản lý các user: xoá, sửa, nhập thêm User, Admin.
+	
+	- Cập nhật mới các thông tin liên quan, sửa thông tin , xoá thông tin.
+	
+	- Kiểm tra, chỉnh sửa các bài Post lên của user và sau đó đăng bài.
+	
+	- Hiển thị thông tin lên theo nhóm tin, chuyên mục.
+	
+
 
 
