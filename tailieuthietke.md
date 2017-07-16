@@ -62,6 +62,8 @@ https://user-images.githubusercontent.com/27799048/28246418-9529a55a-6a43-11e7-9
 - Người quản trị: Admin.
 
  	Chức năng login: Đảm bảo tính bảo mật cho toàn bộ hệ thồng chỉ có người có quyền Amin mới tham gia vào chức năng này như người quản trị toàn bộ hệ thống (Nhập, sửa, xóa, xem bài viết thành viên, quản lí tài khoản người sử dụng, tìm kiếm nhanh)
+	
+	https://user-images.githubusercontent.com/27793476/28246484-2a1ab69e-6a45-11e7-94fc-e7c2c4cf4566.png
 
 
 
