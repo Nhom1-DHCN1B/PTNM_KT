@@ -75,8 +75,8 @@ http://en.wikipedia.org/wiki/List_of_software_that_uses_the_MIT_License
  
                                           NGÔN NGỮ LẬP TRÌNH
                                           
-                                          
+                                     
                                           DANH SÁCH LỖI
-                                             
+  https://github.com/Nhom1-DHCN1B/PTNM_KT/blob/Nam/Danh%20s%C3%A1ch%20l%E1%BB%97i.md                                                
                                              
                                             
