@@ -126,6 +126,9 @@ Sau khi tạo ra cấu trúc cơ sở dữ liệu, cơ sở dữ liệu có th�
 	- Bản tin: mỗi bản tin có một mã bản tin để phân biệt với các bản tin khác. Một bản tin gồm các thông tin: title, shortcut, body, picture, creatdate, tags.
 
 	-Xuất phát từ quá trình xác định các thực thể như trên ta có thể xây dựng một  CSDL có tên là : Database.mdf và CSDL gồm có các bảng sau:
+	
+	![image](https://user-images.githubusercontent.com/27793476/28247394-5b6a12d2-69e4-11e7-8f36-ff83f3bc601d.png)
+
 
 
 
