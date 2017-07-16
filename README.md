@@ -69,14 +69,13 @@ Có thể xem danh sách chi tiết các sản phẩm sử dụng giấy phép M
 http://en.wikipedia.org/wiki/List_of_software_that_uses_the_MIT_License
 
 
-                                          TỔ CHỨC MÃ NGUỒN
+                                        
  
  
  
-                                          NGÔN NGỮ LẬP TRÌNH
                                           
                                           
-                                          DANH SÁCH LỖI
+                                        
                                              
                                              
                                             
