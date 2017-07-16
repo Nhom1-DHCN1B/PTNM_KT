@@ -86,6 +86,10 @@ https://user-images.githubusercontent.com/27799048/28246418-9529a55a-6a43-11e7-9
 - Biểu đồ luồng dữ liệu mức dưới đỉnh.
 	
 	+ Chức năng cập nhật
+	
+	https://user-images.githubusercontent.com/27793476/28246495-417e30e0-6a45-11e7-8b0c-6b5b7c280d66.png
+	
+	+ Chức năng đăng ký thành viên.
 
 
 
