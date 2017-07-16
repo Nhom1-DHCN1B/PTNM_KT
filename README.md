@@ -85,3 +85,6 @@ http://en.wikipedia.org/wiki/List_of_software_that_uses_the_MIT_License
                                         TÀI LIỆU THIẾT KẾ   
                                       
   https://github.com/Nhom1-DHCN1B/PTNM_KT/blob/Khang/tailieuthietke.md
+  
+  ![image](https://user-images.githubusercontent.com/27793476/28245234-24c26dd8-69b7-11e7-900e-dd3b4655c6e5.png)
+
